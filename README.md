@@ -1,4 +1,4 @@
-### Hi there 👋
+![Sergei Miami](https://raw.github.com/miamibc/miamibc/main/images/banner.jpg)
 
 <!--
 **miamibc/miamibc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
